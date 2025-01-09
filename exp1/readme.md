@@ -121,9 +121,9 @@
 ![mv command output](mv.png)
 ### MV OLD NEW COMMAND MANUAL
 ![mv  command manual](mmv.png)
-### MV -V OLD NEW DI COMMAND OUTPUT
+### MV -V OLD NEW COMMAND OUTPUT
 ![mv  command output](mv1.png)
-### MV -V OLD NEW DI COMMAND MANUAL
+### MV -V OLD NEW COMMAND MANUAL
 ![mv  command manual](mmv.png)
 
 
