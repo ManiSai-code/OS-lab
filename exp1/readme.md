@@ -9,7 +9,10 @@
 ### DATE TIME COMMAND MANUAL
 ![date time command manual](mdate1.png)
 ### DATE YEAR COMMAND OUTPUT
-![date year command output](date3.png)
+![date year command output](date2.png)
 ### DATE YEAR COMMAND MANUAL
-![date year command manual](mdate3.png)
-
+![date year command manual](mdate2.png)
+### DATE HOUR COMMAND OUTPUT
+![date hour command output](date3.png)
+### DATE HOUR COMMAND MANUAL
+![date hour command manual](mdate3.png)
