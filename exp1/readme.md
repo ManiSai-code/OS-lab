@@ -4,4 +4,8 @@
 ![date command output](date.png)   
 ### DATE COMMAND MANUAL
 ![date command manual](mdate.png)
+### DATE TIME COMMAND OUTPUT
+![date time command output](mdate1.png)
+### DATE TIME COMMAND MANUAL
+![date time command manual](mdate1.png)
 
