@@ -51,7 +51,7 @@
 ### UNAME-N COMMAND OUTPUT
 ![uname-n command output](uname2.png)
 ### UNAME-N COMMAND MANUAL
-![uname-n command manual](uname2.png)
+![uname-n command manual](muname2.png)
 
 
 
