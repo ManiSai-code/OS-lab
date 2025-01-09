@@ -36,5 +36,30 @@
 ![who am i command output](whoami.png)
 ### WHO AM I COMMAND MANUAL
 ![who am i command manual](mwhoami.png)
+### TTY COMMAND OUTPUT -TERMINAL NAME-
+![tty command output](tty.png)
+### TTY COMMAND MANUAL
+![tty command manual](mtty.png)
+### UNAME COMMAND OUTPUT
+![uname command output](uname.png)
+### UNAME COMMAND MANUAL
+![uname command manual](muname.png)
+### UNAME-R COMMAND OUTPUT
+![uname-r command output](uname1.png)
+### UNAME-R COMMAND MANUAL
+![uname-r command manual](muname1.png)
+### UNAME-N COMMAND OUTPUT
+![uname-n command output](uname2.png)
+### UNAME-N COMMAND MANUAL
+![uname-n command manual](uname2.png)
+
+
+
+
+
+
+
+
+
 
 
