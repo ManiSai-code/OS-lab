@@ -96,11 +96,27 @@
 ![rmdir command output](rmdir.png)
 ### RMDIR COMMAND MANUAL
 ![rmdir command manual](mrmdir.png)
-
-
-
-
-
+## FILE COMMANDS
+### CAT COMMAND OUTPUT
+![cat command output](cat.png)
+### CAT COMMAND MANUAL
+![cat command manual](mcat.png)
+### CAT >> COMMAND OUTPUT
+![cat >> command output](cat2.png)
+### CAT >> COMMAND MANUAL 
+![cat >> command manual](mcat.png)
+### CP COMMAND OUTPUT
+![cp command output](cp.png)
+### CP COMMAND MANUAL
+![cp command manual](mcp.png)
+### CP -I COMMAND OUTPUT
+![cp -i command output](cp1.png)
+### CP -I COMMAND MANUAL
+![cp -i command manual](mcp.png)
+### CP -R COMMAND OUTPUT
+![cp -r command output](cp2.png)
+### CP -R COMMAND MANUAL
+![cp -r command manual](mcp.png)
 
 
 
