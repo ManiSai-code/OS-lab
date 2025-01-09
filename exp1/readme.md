@@ -52,6 +52,10 @@
 ![uname-n command output](uname2.png)
 ### UNAME-N COMMAND MANUAL
 ![uname-n command manual](muname2.png)
+### ECHO COMMAND OUTPUT
+![echo command output](echo.png)
+### ECHO COMMAND MANUAL
+![echo command manual](mecho.png)
 
 
 
