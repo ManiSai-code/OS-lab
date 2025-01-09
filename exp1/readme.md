@@ -8,4 +8,8 @@
 ![date time command output](date1.png)
 ### DATE TIME COMMAND MANUAL
 ![date time command manual](mdate1.png)
+### DATE YEAR COMMAND OUTPUT
+![date year command output](date3.png)
+### DATE YEAR COMMAND MANUAL
+![date year command manual](mdate3.png)
 
