@@ -1,4 +1,4 @@
-# BASIC UNIX COMMANDS PRACTISE OUTPUT
+![image](https://github.com/user-attachments/assets/151993dd-4c86-4c20-9748-1aabc17e981a)# BASIC UNIX COMMANDS PRACTISE OUTPUT
 ## GENERAL  COMMANDS OUTPUTS 
 ### DATE COMMAND OUTPUT
 ![date command output](date.png)   
@@ -56,6 +56,33 @@
 ![echo command output](echo.png)
 ### ECHO COMMAND MANUAL
 ![echo command manual](mecho.png)
+### ECHO $ COMMAND OUTPUT
+![echo $ command output](echo1.png)
+### ECHO $ COMMAND MANUAL 
+![echo $ command manual](mecho1.png)
+### BC - BASIC CALCULATOR COMMAND OUTPUT
+![bc command output](bc.png)
+### BC - BASIC CALCULATOR COMMAND MANUAL
+![bc command manual](mbc.png)
+## IP FILE COMMANDS
+### MAN COMMONAD OUTPUT
+![example using man command](mecho1.png)
+### HISTORY COMMAND OUTPUT
+![history command output](history.png)
+### HISTORY COMMAND MANUAL 
+![history command manual](mhistory.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
