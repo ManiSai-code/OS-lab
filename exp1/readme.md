@@ -30,10 +30,11 @@
 ![cal-month command manual](mcal.png)
 ### WHO COMMAND OUTPUT 
 ![who command output](who.png)
-###WHO COMMAND MANUAL
+### WHO COMMAND MANUAL
 ![who command manual](mwho.png)
 ### WHO AM I COMMAND OUTPUT 
-![who ama i command output](mwho.png)
+![who am i command output](whoami.png)
 ### WHO AM I COMMAND MANUAL
+![who am i command manual](mwhoami.png)
 
 
