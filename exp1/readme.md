@@ -117,6 +117,15 @@
 ![cp -r command output](cp2.png)
 ### CP -R COMMAND MANUAL
 ![cp -r command manual](mcp.png)
+### MV OLD NEW COMMAND OUTPUT
+![mv command output](mv.png)
+### MV OLD NEW COMMAND MANUAL
+![mv  command manual](mmv.png)
+### MV -V OLD NEW DI COMMAND OUTPUT
+![mv  command output](mv1.png)
+### MV -V OLD NEW DI COMMAND MANUAL
+![mv  command manual](mmv.png)
+
 
 
 
