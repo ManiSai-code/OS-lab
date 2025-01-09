@@ -71,7 +71,7 @@
 ![history command output](history.png)
 ### HISTORY COMMAND MANUAL 
 ![history command manual](mhistory.png)
-### EXIT CCOMMAND OUTPUT
+### EXIT COMMAND OUTPUT
 ![exit command output](exit.png)
 ### EXIT COMMAND MANUAL
 ![exit command manual](mexit.png)
