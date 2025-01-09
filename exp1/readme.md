@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/151993dd-4c86-4c20-9748-1aabc17e981a)# BASIC UNIX COMMANDS PRACTISE OUTPUT
+# BASIC UNIX COMMANDS PRACTISE OUTPUT
 ## GENERAL  COMMANDS OUTPUTS 
 ### DATE COMMAND OUTPUT
 ![date command output](date.png)   
@@ -71,17 +71,31 @@
 ![history command output](history.png)
 ### HISTORY COMMAND MANUAL 
 ![history command manual](mhistory.png)
-
-
-
-
-
-
-
-
-
-
-
+### EXIT CCOMMAND OUTPUT
+![exit command output](exit.png)
+### EXIT COMMAND MANUAL
+![exit command manual](mexit.png)
+## DIRECTIORY COMMANDS
+### PWD COMMAND OUTPUT
+![pwd command output](pwd.png)
+### PWD COMMAND MANUAL
+![pwd command manual](mpwd.png)
+### MKDIR COMMAND OUTPUT
+![mkdir command output](mkdir.png)
+### MKDIR COMMAND MANUAL
+![mkdir command manual](mmkdir.png)
+### CD  SUBDIR COMMAND OUTPUT
+![cd command output](cd.png)
+### CD SUBDIR COMMAND MANUAL
+![cd command manual](mcd.png)
+### CD .. COMMAND OUTPUT
+![cd .. command output](cd1.png)
+### CD .. COMMAND MANUAL
+![cd .. command manual](mcd1.png)
+### RMDIR COMMAND OUTPUT
+![rmdir command output](rmdir.png)
+### RMDIR COMMAND MANUAL
+![rmdir command manual](mrmdir.png)
 
 
 
