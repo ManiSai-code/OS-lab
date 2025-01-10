@@ -125,6 +125,68 @@
 ![mv  command output](mv1.png)
 ### MV -V OLD NEW COMMAND MANUAL
 ![mv  command manual](mmv.png)
+### RM FILE COMMAND OUTPUT
+![rm  command output](rm.png)
+### RM FILE COMMAND MANUAL
+![rm  command manual](mrm.png)
+### RM * COMMAND OUTPUT
+![rm * command output](rm1.png)
+### RM * COMMAND MANUAL
+![rm * command manual](mrm.png)
+### RM -R * COMMAND OUTPUT
+![rm -r * command output](rm2.png)
+### RM * COMMAND MANUAL
+![rm -r * command manual](mrm.png)
+### RM -F * COMMAND OUTPUT
+![rm -f * command output](rm3.png)
+### RM -F * COMMAND OUTPUT
+![rm -f * command manual](mrm.png)
+### LS COMMAND OUTPUT
+![ls command output](ls.png)
+### LS COMMAND MANUAL
+![ls command manual](mls.png)
+### LS NAME * COMMAND OUTPUT
+![ls name command output](ls1.png)
+### LS NAME * COMMAND MANUAL
+![ls name command manual](mls.png)
+### LS - A COMMAND OUTPUT
+![ls - a command output](ls2.png)
+### LS - A COMMAND MANUAL
+![ls -a command manual](mls.png)
+### LS -X DIR NAME COMMAND OUTPUT
+![ls -x dir command output](ls3.png)
+### LS - X DIR NAME COMMAND MANUAL
+![ls -x dir command manual](mls.png)
+### LS -R COMMAND OUTPUT
+![ls -r command manual](ls4.png)
+### LS -R COMMAND MANUAL
+![ls -r command manual](mls.png)
+### LS - L COMMAND OUTPUT
+![ls -l command output](ls5.png)
+### LS -L COMMAND MANUAL
+![ls -l command manual](mls.png)
+### CMP COMMAND OUTPUT
+![cmp command output](cmp.png)
+### CMP COMMAND MANUAL
+![cmp command manual](mcmp.png)
+### CHMOD COMMAND OUTPUT
+![chmod command output](chmod.png)
+### CHMOD COMMAND MANUAL
+![chmod command manual](mchmod.png)
+
+
+
+
+# The Study And Execution Of Unix Commands Has Been Completed Successfully
+
+
+
+
+
+
+
+
+
 
 
 
