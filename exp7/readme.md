@@ -1,5 +1,5 @@
 # Program statement: Implement Peterson algorithm for critical section problem.
-# Source Code: 
+# SOURCE CODE : 
 ```c
 #include <stdio.h>
 #include <pthread.h>
