@@ -51,3 +51,5 @@ int main() {
 # OUTPUT:
 ![ Virtual lab experiment 2](2.png)
 
+# CONCLUSION :
+Thus the study and implementation of peterson's algorithm of critical section problem has been completed successfully.
